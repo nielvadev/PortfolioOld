@@ -9,11 +9,11 @@
 
 - 👯 I’m looking to collaborate on **React.Js projects**
 
-- 👨‍💻 All of my projects are available at [Portfolio coming soon](Portfolio coming soon)
+- 👨‍💻 All of my projects are available at [https://nielvadev.github.io/index]
 
 - 📫 How to reach me **nielvadev@gmail.com**
 
-- 📄 Know about my experiences [Portfolio coming soon](Portfolio coming soon)
+- 📄 Know about my experiences [https://nielvadev.github.io/index]
 
 - ⚡ Fun fact **I worked as an Electronic Coordinator and after 8 years I decided to develop software**
 
