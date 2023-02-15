@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Juan Daniel Valencia</h1>
-<h3 align="center">A creative front-End developer in React.Js</h3>
+<h3 align="center">A creative front-End developer in Angular and React</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nielvadev&label=Profile%20views&color=0e75b6&style=flat" alt="nielvadev" /> </p>
 
 - 🔭 I’m currently studing in [Software Developer](https://ingenierias.utp.edu.co/tecnologia-en-desarrollo-de-software/)
 
-- 🌱 I’m currently learning **React.js Tailwind CSS**
+- 🌱 I’m currently learning **Angular PrimeNG**
 
-- 👯 I’m looking to collaborate on **React.Js projects**
+- 👯 I’m looking to collaborate on **React and Angular projects**
 
 - 👨‍💻 All of my projects are available at [https://nielvadev.github.io/index]
 
