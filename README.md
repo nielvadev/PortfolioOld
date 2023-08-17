@@ -66,6 +66,11 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nielvadev&show_icons=true&locale=en&layout=compact" alt="nielvadev" /></p>
+## Statistics 🧐
+![](https://github-readme-stats.vercel.app/api?username=nielvadev)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nielvadev&show_icons=true&locale=en" alt="nielvadev" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nielvadev)
+
+## Look at me! 👀
+<a href="https://nielvadev.github.io/index" target="_blank"><img src="https://nielvadev.github.io/assets/logoenpng.png" height="60"></a>  
+<a href="https://www.instagram.com/juan_danielv/" target="_blank"><img src="https://img.shields.io/badge/juandanielv%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a><a href="https://linkedin.com/in/juan-daniel-valencia-nielvadev" target="_blank"><img src="https://img.shields.io/badge/JuanDanielValencia%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
